@@ -1,0 +1,8 @@
+1. Lo aprendido durante el desarrollo del proyecto
+Durante el desarrollo del proyecto aprendimos a trabajar con archivos de texto y archivos CSV utilizando Java. También reforzamos el manejo de variables, ciclos y condicionales. Además, aprendimos a leer y procesar los datos de los estudiantes, calcular sus promedios teniendo en cuenta los créditos de cada materia, ordenar los resultados y generar un nuevo archivo con la información obtenida.
+
+2. Posibles aplicaciones en la vida profesional
+Los conocimientos adquiridos durante el proyecto pueden ser útiles para desarrollar programas que necesiten organizar, procesar y analizar información almacenada en diferentes archivos. También aprendimos cómo automatizar tareas y generar reportes, conocimientos que pueden aplicarse en el desarrollo de software y en diferentes situaciones del ámbito profesional.
+
+3. Dificultades presentadas durante el desarrollo del proyecto
+Una de las principales dificultades fue comprender cómo relacionar la información de los archivos alumnos.csv y notas.txt para realizar correctamente los cálculos. También se presentaron dificultades al momento de organizar los resultados, implementar la clasificación académica y mantener actualizados los archivos del proyecto en el repositorio. Estas situaciones se fueron solucionando mediante pruebas y revisiones del funcionamiento del programa.
