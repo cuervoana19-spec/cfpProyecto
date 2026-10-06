@@ -128,12 +128,21 @@ public class Main {
                 double promedio =
                         Double.parseDouble(estudiante[2]);
 
+                String clasificacion;
+
+                if (promedio >= 4.00) {
+                    clasificacion = "Cuadro_de_Honor";
+                } else {
+                    clasificacion = "Regular";
+                }
+
                 escritor.printf(
                         Locale.US,
-                        "%s;%s;%.2f_Prom%n",
+                        "%s;%s;%.2f_Prom;%s%n",
                         estudiante[0],
                         estudiante[1],
-                        promedio
+                        promedio,
+                        clasificacion
                 );
             }
 
